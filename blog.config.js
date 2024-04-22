@@ -1,6 +1,6 @@
 const BLOG = {
   title: '塞尔维亚之家',
-  author: 'Craig Hart',
+  author: 'it陈',
   email: 'serbia580@gmail.com',
   link: 'https://chenan.eu.org',
   description: '分享塞尔维亚移民的干货.',
@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/craigaryhart',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: ['塞尔维亚移民', '塞尔维亚居留', '塞尔维亚生活'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
