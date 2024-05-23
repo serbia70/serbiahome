@@ -1,8 +1,8 @@
 const BLOG = {
   title: '塞尔维亚之家',
   author: 'it陈',
-  email: 'serbia580@gmail.com',
-  link: 'https://chenan.eu.org',
+  email: 'serbia1688@gmail.com',
+  link: 'https://serbiahome.vercel.app',
   description: '分享塞尔维亚移民的干货.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
